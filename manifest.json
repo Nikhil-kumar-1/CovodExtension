@@ -1,0 +1,12 @@
+{
+    "name": "Covid-19 Stats UK",
+    "version": "1.0.0",
+    "description": "Latest COVID data of UK",
+    "manifest_version": 3,
+    "author": "Nikhil Kumar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report",
+        "default_icon": "covid.png"
+    }
+}
